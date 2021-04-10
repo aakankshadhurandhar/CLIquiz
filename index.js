@@ -57,7 +57,7 @@ var data =[
     
   },
   {
-    question: "What Kind of Person Somesh Is?",
+    question: "What Kind of PersonAakanksha Is?",
     option1: "1. Talkative",
     option2: "2. Introvert but Kind-Hearted",
     option3: "3. Extrovert",
